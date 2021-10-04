@@ -1,6 +1,6 @@
 Package: greenbook
 Type: Package
-Title: Greenbook: Tools For Analzing US Foreign Policy Spending Data
+Title: Greenbook: Tools For Analyzing US Foreign Policy Spending Data
 Version: 0.1.0
 Author: Michael Flynn
 Maintainer: The package maintainer <meflynn@ksu.edu>

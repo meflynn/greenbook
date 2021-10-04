@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# `greenbook`: Tools For Analzing US Foreign Policy Spending Data
+# `greenbook`: Tools For Analyzing US Foreign Policy Spending Data
 
 <!-- badges: start -->
 <!-- badges: end -->
