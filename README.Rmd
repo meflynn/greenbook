@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 ```
 
 
-#`greenbook`: Tools For Analzing US Foreign Policy Spending Data
+# `greenbook`: Tools For Analzing US Foreign Policy Spending Data
 
 <!-- badges: start -->
 
